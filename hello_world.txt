@@ -1,0 +1,2 @@
+Some text to be commit
+Some other text
